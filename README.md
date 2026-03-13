@@ -4,8 +4,6 @@ ArcGIS CityEngine for Unreal Engine is an [Unreal Engine 5](https://www.unrealen
 
 As input the plugin requires rule packages (RPK) which are authored in CityEngine. An RPK includes assets and a CGA rule file which encodes an architectural style. The download section below provides links to the several RPKs which can be used out-of-the-box.
 
-The latest release is available in the [downloads section on GitHub](https://github.com/Esri/vitruvio/releases/latest). Please refer to the [installation guide](doc/installation.md) for installation instructions. Examples can be downloaded from [ArcGIS CityEngine for Unreal Engine page](https://esri.github.io/cityengine/vitruvio#examples).
-
 ![City generated using ArcGIS CityEngine for Unreal Engine](doc/img/vitruvio_paris.jpg)
 
 ## Documentation
@@ -31,14 +29,9 @@ External documentation:
 
 Find a bug or want to request a new feature? Please let us know by submitting an issue.
 
-## Contributing
-
-Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 ## Licensing Information
 
 CityEngine for Unreal Engine is free for personal, educational, and non-commercial use. Commercial use requires at least one commercial license of the latest CityEngine version installed in the organization. Redistribution or web service offerings are not allowed unless expressly permitted.
-
-CityEngine for Unreal Engine is under the same license as the included [CityEngine SDK](https://github.com/Esri/esri-cityengine-sdk#licensing). An exception is the CityEngine for Unreal Engine source code (without CityEngine SDK, binaries, or object code), which is licensed under the Apache License, Version 2.0 (the “License”); you may not use this work except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
 
 For questions or enquiries, please contact the Esri CityEngine team (cityengine-info@esri.com).
